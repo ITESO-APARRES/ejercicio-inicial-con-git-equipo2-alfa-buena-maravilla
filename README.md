@@ -9,3 +9,5 @@ Equipo 2 Alfa Buena Maravilla
    David Eduardo Ramos Soto
    Enya Lisset Gomez Romero
    Dafne Angelica Hernandez Vazquez
+   Bruno Giancarlo Velasco Bravo
+
