@@ -7,4 +7,4 @@ Equipo 2 Alfa Buena Maravilla
 
 ### INTEGRANTES
    David Eduardo Ramos Soto
-   
+   Enya Lisset Gomez Romero
